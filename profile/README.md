@@ -1,4 +1,4 @@
-# 🫡 krafton jungler 를 위한 Obsidian keyword 저장소!
+# 🫡 Krafton Jungler 를 위한 Obsidian keyword 저장소!
 
 여러분의 정리를 도와줄 jungle 키워드 저장소입니다.
 
