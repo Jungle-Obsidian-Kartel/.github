@@ -1,12 +1,8 @@
-## Hi there 👋
+# 🫡 krafton jungler 를 위한 Obsidian keyword 저장소!
 
-<!--
+여러분의 정리를 도와줄 jungle 키워드 저장소입니다.
 
-**Here are some ideas to get you started:**
+>[!tip]
+> 이 저장소를 clone 해서 여러분의 vault 안에 추가만 해주면 사용 준비 끝!
+>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
